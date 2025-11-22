@@ -543,7 +543,7 @@ section {
 
 @media (max-width: 617px) {
     .home-img img {
-        width: 80px;
+        width: 200px;
         margin-top: 4rem;
     }
     .about-img img {
